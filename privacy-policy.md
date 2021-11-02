@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 # BETHESOMM INC. PRIVACY STATEMENT
 
-*Updated: November 15, 2020*
+*Updated: October 22, 2021*
 
 Thank you for using BeTheSomm Inc. (“**BeTheSomm**”)! BeTheSomm and its affiliates (collectively, “**we**”, “**our**” or “**us**”) recognize the importance of privacy. We are committed to protecting your privacy and safeguarding your personal information. The purpose of this privacy statement (“Privacy Statement”) is to inform you about our privacy practices, including how we collect, use and disclose your Personal Information.
 
@@ -72,16 +72,16 @@ The Personal Information we collect is generally in one or more of the following
 
 We may use your Personal Information for purposes such as:
 * providing you with our products and services and supporting your use of our products and services;
-* (*with your express consent*) contacting you relating to our products and services;
+* contacting you relating to our products and services (*where we have your consent to*);
 * monitoring the usage of our products and services to support their proper functioning and further
   improvement;
 * analyzing the needs and activities of our customers to help us better serve them;
 * generating de-identified data to conduct research and analysis related to our business, products
   and services;
 * responding to inquiries and other requests;
-* (*with your express consent*) collecting opinions and comments about our products and services;
-* (*with your express consent*) providing you with information that we think may interest you,
-  including information about our products and services; and
+* collecting opinions and comments about our products and services (*where we have your consent to*);
+* providing you with information that we think may interest you,
+  including information about our products and services (*where we have your consent to*); and
 * investigating legal claims.
 
 We may use your Personal Information for purposes for which we have obtained your consent, and for such other purposes as may be permitted or required by applicable privacy laws.
