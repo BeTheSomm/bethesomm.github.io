@@ -141,4 +141,4 @@ All comments, questions, concerns or complaints regarding your Personal Informat
 Attention: Privacy Officer\
 BeTheSomm Inc.
 
-By email: privacy@bethesomm.com
+By email: legal@somm.io
