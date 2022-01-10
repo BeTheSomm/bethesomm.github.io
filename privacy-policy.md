@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # BETHESOMM INC. PRIVACY STATEMENT
 
-_Updated: October 22, 2021_
+_Updated: January 9, 2022_
 
 Thank you for using BeTheSomm Inc. (“**BeTheSomm**”)! BeTheSomm and its affiliates (collectively, “**we**”, “**our**” or “**us**”) recognize the importance of privacy. We are committed to protecting your privacy and safeguarding your personal information. The purpose of this privacy statement (“Privacy Statement”) is to inform you about our privacy practices, including how we collect, use and disclose your Personal Information.
 

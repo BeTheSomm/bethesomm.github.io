@@ -5,7 +5,7 @@ title: Terms Of Service
 
 # BETHESOMM APP TERMS OF USE
 
-_Last revised: December 15, 2021_
+_Last revised: January 9, 2022_
 
 Thank you for using BeTheSomm Inc. (“**BeTheSomm**”, “**we**”, “**our**” or “**us**”)! We’re thrilled that you (“you” or “your”) are here. BeTheSomm offers a platform (the “Platform”) that enables consumers and industry professionals to browse, select and rate wines based on various factors, including special occasions, personal preferences and budget. After you open an account on the Platform, you are able to access services that we may provide to you through or in connection with the Platform (the “Services”). The Platform is accessible through an app named or branded for BeTheSomm (“App”). These Terms of Use (“Terms”) set out certain house rules that we expect you to follow when accessing or using our Platform, Services and App.
 
