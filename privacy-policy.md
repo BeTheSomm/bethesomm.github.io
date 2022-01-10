@@ -2,9 +2,10 @@
 layout: default
 title: Privacy Policy
 ---
+
 # BETHESOMM INC. PRIVACY STATEMENT
 
-*Updated: October 22, 2021*
+_Updated: October 22, 2021_
 
 Thank you for using BeTheSomm Inc. (“**BeTheSomm**”)! BeTheSomm and its affiliates (collectively, “**we**”, “**our**” or “**us**”) recognize the importance of privacy. We are committed to protecting your privacy and safeguarding your personal information. The purpose of this privacy statement (“Privacy Statement”) is to inform you about our privacy practices, including how we collect, use and disclose your Personal Information.
 
@@ -19,20 +20,21 @@ Please review this Privacy Statement carefully. By submitting your Personal Info
 ## WHAT’S IN THIS PRIVACY STATEMENT?
 
 This Privacy Statement covers the following topics:
- * Meaning of Personal Information
- * Your Consent to Collection, Use and Disclosure
- * Personal Information We Collect
- * How We Use Your Personal Information
- * How We Share Your Personal Information
- * Opting Out of Communications
- * Retention of Personal Information
- * Information Security
- * Accessing and Updating Your Personal Information
- * International Transfer and Storage of Information
- * Third Party Websites and Services
- * Children’s Information
- * How to Contact Us
- 
+
+- Meaning of Personal Information
+- Your Consent to Collection, Use and Disclosure
+- Personal Information We Collect
+- How We Use Your Personal Information
+- How We Share Your Personal Information
+- Opting Out of Communications
+- Retention of Personal Information
+- Information Security
+- Accessing and Updating Your Personal Information
+- International Transfer and Storage of Information
+- Third Party Websites and Services
+- Children’s Information
+- How to Contact Us
+
 ## Meaning of Personal Information
 
 "Personal Information" means information about an identifiable individual as described under applicable privacy laws. This information may include (without limitation) your name, e-mail address and date of birth.
@@ -55,34 +57,34 @@ If you provide Personal Information about another individual to us, it is your r
 
 The Personal Information we collect is generally in one or more of the following categories.
 
-* <u>Products and Services</u>. For individuals who use our products and services, we may collect information from you or from your use of our products or services.
-    * We collect information that you submit through your creation of a user account and your use of our products or services, such as (without limitation) your name, location, e-mail address and other contact information. We also collect any additional information that you provide to personalize your account.
+- <u>Products and Services</u>. For individuals who use our products and services, we may collect information from you or from your use of our products or services.
 
-    * We may automatically collect data about your use of our products or services that is identifiable with you for statistical analysis, service improvement, and other similar purposes, such as (without limitation) the total number of radio buttons clicked, total numbers of emails deployed, etc. We may provide such usage data to third parties or compile it with other data to derive statistical and performance information, provided that we will aggregate and anonymize such data so that you or any individual cannot be identified as the source of such data.
-  
-* <u>Website</u>. For individuals who visit our website located at https://www.bethesomm.com/ or any of our related websites (collectively, “our website”), we may collect information from you or from your activities on the site.
-    * Like most websites and other Internet services, we may collect certain technical and
-      device information about your use of our website. Such information may include (without limitation) your Internet protocol address, your location, information about your device, browser and operating system, and the date and time of your visit.
-      
-    * We may also use “cookies” to track your preferences and activities on our website. Cookies are small data files transferred to your computer’s hard-drive by a website. They keep a record of your preferences, making your subsequent visits to the site more efficient. Cookies may store a variety of information, including the number of times that you access a site, your language preferences and the number of times that you view a particular page or other item on the site. The use of cookies is a common practice adopted by most major sites to better serve their users. Most browsers are designed to accept cookies, but they can be modified to block cookies. See your browser’s help files for more information. You should note, however, that without cookies some of our website’s functions may not be available.
-    
-* <u>Other Interactions</u>. For individuals who otherwise interact with us, whether in person, by phone or email, through social media or otherwise, including individuals who might be interested in acquiring our products or services, who sign-up to receive newsletters or other communications, or who respond to surveys and questionnaires, we may collect information that you provide to us during these interactions. This information may include (without limitation) your name, e-mail address and other contact information.
+  - We collect information that you submit through your creation of a user account and your use of our products or services, such as (without limitation) your name, location, e-mail address and other contact information. We also collect any additional information that you provide to personalize your account.
+
+  - We may automatically collect data about your use of our products or services that is identifiable with you for statistical analysis, service improvement, and other similar purposes, such as (without limitation) the total number of radio buttons clicked, total numbers of emails deployed, etc. We may provide such usage data to third parties or compile it with other data to derive statistical and performance information, provided that we will aggregate and anonymize such data so that you or any individual cannot be identified as the source of such data.
+
+- <u>Website</u>. For individuals who visit our website located at https://www.bethesomm.com/ or any of our related websites (collectively, “our website”), we may collect information from you or from your activities on the site.
+  - Like most websites and other Internet services, we may collect certain technical and
+    device information about your use of our website. Such information may include (without limitation) your Internet protocol address, your location, information about your device, browser and operating system, and the date and time of your visit.
+  - We may also use “cookies” to track your preferences and activities on our website. Cookies are small data files transferred to your computer’s hard-drive by a website. They keep a record of your preferences, making your subsequent visits to the site more efficient. Cookies may store a variety of information, including the number of times that you access a site, your language preferences and the number of times that you view a particular page or other item on the site. The use of cookies is a common practice adopted by most major sites to better serve their users. Most browsers are designed to accept cookies, but they can be modified to block cookies. See your browser’s help files for more information. You should note, however, that without cookies some of our website’s functions may not be available.
+- <u>Other Interactions</u>. For individuals who otherwise interact with us, whether in person, by phone or email, through social media or otherwise, including individuals who might be interested in acquiring our products or services, who sign-up to receive newsletters or other communications, or who respond to surveys and questionnaires, we may collect information that you provide to us during these interactions. This information may include (without limitation) your name, e-mail address and other contact information.
 
 ## How We Use Your Personal Information
 
 We may use your Personal Information for purposes such as:
-* providing you with our products and services and supporting your use of our products and services;
-* contacting you relating to our products and services (*where we have your consent to*);
-* monitoring the usage of our products and services to support their proper functioning and further
+
+- providing you with our products and services and supporting your use of our products and services;
+- contacting you relating to our products and services (_where we have your consent to_);
+- monitoring the usage of our products and services to support their proper functioning and further
   improvement;
-* analyzing the needs and activities of our customers to help us better serve them;
-* generating de-identified data to conduct research and analysis related to our business, products
+- analyzing the needs and activities of our customers to help us better serve them;
+- generating de-identified data to conduct research and analysis related to our business, products
   and services;
-* responding to inquiries and other requests;
-* collecting opinions and comments about our products and services (*where we have your consent to*);
-* providing you with information that we think may interest you,
-  including information about our products and services (*where we have your consent to*); and
-* investigating legal claims.
+- responding to inquiries and other requests;
+- collecting opinions and comments about our products and services (_where we have your consent to_);
+- providing you with information that we think may interest you,
+  including information about our products and services (_where we have your consent to_); and
+- investigating legal claims.
 
 We may use your Personal Information for purposes for which we have obtained your consent, and for such other purposes as may be permitted or required by applicable privacy laws.
 
@@ -141,4 +143,4 @@ All comments, questions, concerns or complaints regarding your Personal Informat
 Attention: Privacy Officer\
 BeTheSomm Inc.
 
-By email: privacy@bethesomm.com
+By email: legal@somm.io
