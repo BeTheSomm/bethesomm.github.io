@@ -60,6 +60,8 @@ The Personal Information we collect is generally in one or more of the following
 - <u>Products and Services</u>. For individuals who use our products and services, we may collect information from you or from your use of our products or services.
 
   - We collect information that you submit through your creation of a user account and your use of our products or services, such as (without limitation) your name, location, e-mail address and other contact information. We also collect any additional information that you provide to personalize your account.
+  
+  - We may collect images or videos you directly upload to your account or take with your on-device camera while using our products and services. Our access to your on-device camera or internal photo storage when using our products and services may be modified or restricted through your device and its permissions.
 
   - We may automatically collect data about your use of our products or services that is identifiable with you for statistical analysis, service improvement, and other similar purposes, such as (without limitation) the total number of radio buttons clicked, total numbers of emails deployed, etc. We may provide such usage data to third parties or compile it with other data to derive statistical and performance information, provided that we will aggregate and anonymize such data so that you or any individual cannot be identified as the source of such data.
 
